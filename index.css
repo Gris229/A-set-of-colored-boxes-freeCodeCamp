@@ -1,0 +1,35 @@
+body {
+  background-color: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  margin: 5px auto;
+  display: inline-block;
+  border-radius: 20px;
+}
+
+.color1 {
+  background-color: #05f;
+}
+
+.color2 {
+  background-color: rgb(127, 127, 255)
+}
+
+.color3 {
+  background-color: tomato;
+}
+
+.color4 {
+  background-color: hsl(300, 50%, 40%);
+}
+
+.color5 {
+  background-color: lightgray;
+}
